@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/-expense_accounting/static/css/main.89e95a45.css",
+    "main.js": "/-expense_accounting/static/js/main.f0d6ca74.js",
+    "index.html": "/-expense_accounting/index.html",
+    "main.89e95a45.css.map": "/-expense_accounting/static/css/main.89e95a45.css.map",
+    "main.f0d6ca74.js.map": "/-expense_accounting/static/js/main.f0d6ca74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89e95a45.css",
+    "static/js/main.f0d6ca74.js"
+  ]
+}
